@@ -1,0 +1,15 @@
+[package]
+name = "" # Replaced
+version = "0.1.0"
+authors = [] # Replaced
+license = "MIT/Apache-2.0"
+
+[dependencies]
+iron = "*"
+logger = "*"
+router = "*"
+mount = "*"
+staticfile = "*"
+persistent = "*"
+session = "*"
+cookie = "*"
